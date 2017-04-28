@@ -12,8 +12,7 @@
 	"ui_modal_updaterequired_title" : "محرك الخلفيات يحتاج الى تحديث",
 	"ui_modal_updaterequired_body" : ".الرجاء اغلاق محرك الخلفيات (انقر بزر الفأرة الايمن على الايقونه و اضغط خروج) ثم اعد تشغيل البرنامج عبر ستيم لتحصل على اخر التحديثات. اذا لا زلت تحصل على هذه الرسالة الرجاء التحقق من ملفات البرنمج عبر ستيم<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "تحديث جديد متاح",
-	"ui_modal_updateavailable_body_distro" : "تم تحميل تحديث جديد لمحرك الخلفيات عبر ستيم (version <b>{{distroVersion}}</b>). هل تريد اعادة تشغيل محرك الخلفيات لتطبيق التحديث؟",
-
+	"ui_modal_updateavailable_body_distro" : " تم تحميل تحديث جديد لمحرك الخلفيات عبر ستيم(نسخة <b>{{distroVersion}}</b>) هل تريد اعادة تشغيل محرك الخلفيات لتطبيق التحديث؟",
 	"ui_browse_monitor" : "شاشة",
 	"ui_browse_choose_monitor" : "(اختر شاشة)",
 	"ui_browse_filter_results" : "تصفية النتائج",
